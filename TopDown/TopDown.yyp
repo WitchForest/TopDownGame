@@ -66,7 +66,7 @@
             "Key": "31d65034-30f0-42f8-9c5c-7064c6c34658",
             "Value": {
                 "id": "05a4d14c-10ff-453e-98c0-857a5bf42480",
-                "resourcePath": "sprites\\sprPlayerDoll\\sprPlayerDoll.yy",
+                "resourcePath": "sprites\\sprDollASheet\\sprDollASheet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -119,11 +119,11 @@
             }
         },
         {
-            "Key": "958d1131-84e2-45fd-9648-649c7eeece93",
+            "Key": "8589032e-6990-4074-8950-338a1ddca214",
             "Value": {
-                "id": "db73882a-3335-492e-a6e3-d64e79ab747e",
-                "resourcePath": "rooms\\room0\\room0.yy",
-                "resourceType": "GMRoom"
+                "id": "f0eab1f8-685e-4121-b3c1-5c123c5b5ebf",
+                "resourcePath": "sprites\\sprDollAWalk\\sprDollAWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "ed1a44a4-cf59-443b-89da-57194d80bbab",
+            "Value": {
+                "id": "2b3b4368-dd77-45c5-a2b6-399a642226fa",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "7a765714-0262-4ab3-af94-c046f175fcb5",
@@ -199,10 +207,18 @@
             }
         },
         {
+            "Key": "fd444b3c-e558-46ff-8882-102bf4319bad",
+            "Value": {
+                "id": "4169592b-5608-4fa4-8635-a42752a1e1a8",
+                "resourcePath": "sprites\\sprDollAStand\\sprDollAStand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "feb19505-ee6a-43fd-a1c4-edf2353ea01a",
             "Value": {
                 "id": "175f91c8-d483-4c2c-a4ab-a7de44bf703e",
-                "resourcePath": "objects\\objPlayerDoll\\objPlayerDoll.yy",
+                "resourcePath": "objects\\objPlayer\\objPlayer.yy",
                 "resourceType": "GMObject"
             }
         }

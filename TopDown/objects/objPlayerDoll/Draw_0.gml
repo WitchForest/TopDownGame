@@ -1,1 +1,0 @@
-draw_sprite_part(sprPlayerDoll, 0, 0, 0, 16, 32, x, y);
