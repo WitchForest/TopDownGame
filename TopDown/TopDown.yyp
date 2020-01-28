@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "324d12e5-154a-4724-a3ce-b8480a3835f9",
+            "Value": {
+                "id": "a2ce2765-baa2-4646-a45f-4f70e0becae4",
+                "resourcePath": "scripts\\MACROS\\MACROS.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "54e45515-92d6-48eb-a6f9-0ae1440542bd",
             "Value": {
                 "id": "7c8dc79b-d394-4e01-9fae-d1000b183702",
@@ -148,6 +156,14 @@
                 "id": "9855e0c0-9466-47e7-b60f-0b4154298947",
                 "resourcePath": "views\\add3388d-78bb-42b8-b29a-7d8b9e52f534.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b1490baf-5903-4fc0-be18-8a6c83d3ccf6",
+            "Value": {
+                "id": "4f0e4754-f6e6-4f71-8a20-089c1a59817f",
+                "resourcePath": "scripts\\AnimateSprite\\AnimateSprite.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -224,7 +240,8 @@
         }
     ],
     "script_order": [
-        
+        "324d12e5-154a-4724-a3ce-b8480a3835f9",
+        "b1490baf-5903-4fc0-be18-8a6c83d3ccf6"
     ],
     "tutorial": ""
 }
