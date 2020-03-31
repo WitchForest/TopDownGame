@@ -5,9 +5,9 @@ playerState = PlayerStateWalk;
 image_speed = 0;
 hSpeed = 0;
 vSpeed = 0;
-speedWalk = 2.0;
-speedRoll = 3.0;
-distanceRoll = 52;
+speedWalk = 1.0;
+speedRoll = 2.0;
+distanceRoll = 75;
 
 
 spriteRun = sprDollAWalk;

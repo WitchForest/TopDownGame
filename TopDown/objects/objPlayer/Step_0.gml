@@ -5,7 +5,8 @@ keyUp = keyboard_check(vk_up);
 keyDown = keyboard_check(vk_down);
 
 keyAction = keyboard_check_pressed(ord("Z"));
-keyItem = keyboard_check_pressed(ord("X"));
+keyItem = keyboard_check_pressed(ord("A"));
+keyRoll = keyboard_check_pressed(ord("X"));
 
 inputDirection = point_direction(0, 0, keyRight - keyLeft, keyDown - keyUp);
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);

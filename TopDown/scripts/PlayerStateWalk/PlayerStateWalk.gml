@@ -14,6 +14,7 @@ else
 {
 	sprite_index = spriteIdle;
 }
+
 if (_oldSprite != sprite_index)
 {
 	localFrame = 0;
@@ -21,3 +22,11 @@ if (_oldSprite != sprite_index)
 
 // update image index
 AnimateSprite();
+
+
+
+if (keyRoll)
+{
+	playerState = PlayerStateRoll;
+	moveDistanceRemain = distanceRoll;
+}
