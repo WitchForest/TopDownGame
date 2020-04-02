@@ -111,11 +111,35 @@
             }
         },
         {
+            "Key": "5d4cd81e-515c-41b6-98fc-d4aa6276ea78",
+            "Value": {
+                "id": "4379f7e2-f91f-495e-bdd3-094c6bf1e021",
+                "resourcePath": "rooms\\rVillage\\rVillage.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "65b11b14-454f-4e16-9e5f-6b5b5657e921",
+            "Value": {
+                "id": "a67d3b93-2fa2-48b7-950b-ee1b07336629",
+                "resourcePath": "rooms\\rInit\\rInit.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6690063f-f5cf-4188-8582-a4cb98c29844",
             "Value": {
                 "id": "7becaea6-7cda-4631-b1de-cb1ff2a60556",
                 "resourcePath": "views\\6690063f-f5cf-4188-8582-a4cb98c29844.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "67bc0e81-5009-4866-998e-ba40812c9f8f",
+            "Value": {
+                "id": "6c16a942-dfd3-4456-9d86-a4e96fbf86f1",
+                "resourcePath": "sprites\\sprTiles\\sprTiles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +188,14 @@
                 "id": "f0eab1f8-685e-4121-b3c1-5c123c5b5ebf",
                 "resourcePath": "sprites\\sprDollAWalk\\sprDollAWalk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9765bf9d-4647-484d-aae5-6e6c6d65923c",
+            "Value": {
+                "id": "984b689b-458d-4471-9956-4265b49d99dd",
+                "resourcePath": "views\\ed1a44a4-cf59-443b-89da-57194d80bbab-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -223,6 +255,14 @@
             }
         },
         {
+            "Key": "b3d0f16d-8b89-44d5-9d33-7748e6c94ef3",
+            "Value": {
+                "id": "a0e466ff-1a08-4324-a9be-b9b73d61e2ec",
+                "resourcePath": "tilesets\\tOverworldTiles\\tOverworldTiles.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "b4b63b85-c9da-48b6-a961-db706bc840e0",
             "Value": {
                 "id": "f7da1ba6-089a-4f3b-8e05-b212c95b0823",
@@ -266,7 +306,7 @@
             "Key": "ed1a44a4-cf59-443b-89da-57194d80bbab",
             "Value": {
                 "id": "2b3b4368-dd77-45c5-a2b6-399a642226fa",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rParent\\rParent.yy",
                 "resourceType": "GMRoom"
             }
         },

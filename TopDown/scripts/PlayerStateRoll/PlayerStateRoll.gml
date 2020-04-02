@@ -8,7 +8,7 @@ var _collieded = PlayerCollision();
 
 // Update sprite
 sprite_index = spriteRoll;
-var _totalFames = sprite_get_number(sprite_index)/4; //4 directions, should be a macro
+var _totalFames = sprite_get_number(sprite_index) / FACE_DIRECTIONS;
 image_index = (CARDINAL_DIR * _totalFames) + min(((1 - (moveDistanceRemain / distanceRoll)) *  _totalFames), _totalFames - 1); // Should be broken up, or very carefully documented
 
 // State changes
