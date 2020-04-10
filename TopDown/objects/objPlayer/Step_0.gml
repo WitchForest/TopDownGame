@@ -11,4 +11,7 @@ keyRoll = keyboard_check_pressed(ord("X"));
 inputDirection = point_direction(0, 0, keyRight - keyLeft, keyDown - keyUp);
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 
-script_execute(playerState);
+if (global.gamePaused = false)
+{
+	script_execute(playerState);
+}

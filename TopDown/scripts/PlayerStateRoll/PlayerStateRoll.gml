@@ -17,3 +17,9 @@ if (moveDistanceRemain <= 0)
 	playerState = PlayerStateWalk;
 	
 }
+
+if (_collieded)
+{
+	state = PlayerStateWalk;
+	ScreenShake(8, 30);
+}
