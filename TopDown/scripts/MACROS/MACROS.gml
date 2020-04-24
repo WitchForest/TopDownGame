@@ -4,3 +4,6 @@
 #macro FACE_DIRECTIONS 4
 #macro ROOM_START rVillage
 #macro DEBUG_MODE true
+
+#macro RESOLUTION_W 320
+#macro RESOLUTION_H 180

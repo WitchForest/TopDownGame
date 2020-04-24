@@ -1,6 +1,7 @@
 collisionMap = layer_tilemap_get_id(layer_get_id("Collision"));
 
 playerState = PlayerStateWalk;
+lastState = playerState;
 
 image_speed = 0;
 hSpeed = 0;

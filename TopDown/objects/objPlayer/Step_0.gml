@@ -15,3 +15,5 @@ if (global.gamePaused = false)
 {
 	script_execute(playerState);
 }
+
+depth = -bbox_bottom;
