@@ -48,7 +48,16 @@ if (keyRoll)
 			with (activate)
 			{
 				direction = point_direction(x, y, other.x, other.y);
+					
+				show_debug_message(x);	
+				show_debug_message(y);	
+				show_debug_message(other.x);
+				show_debug_message(other.y);
+				show_debug_message(direction);
+
+
 				image_index = CARDINAL_DIR;
+
 			}
 		}
 	}

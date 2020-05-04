@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "28dd1c38-e896-47b4-a421-8eb4d6537e6f",
+            "Value": {
+                "id": "f856a94d-1386-412e-845e-55afc3ef7b68",
+                "resourcePath": "scripts\\DialogResponse\\DialogResponse.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2992500c-9347-4ec5-80d3-64d05735157c",
             "Value": {
                 "id": "60ab47a4-5844-4c0a-bd5d-37e762f42b11",
@@ -116,6 +124,14 @@
                 "id": "6b076864-89ad-4729-859a-e332fecfec03",
                 "resourcePath": "scripts\\ScriptExecuteArray\\ScriptExecuteArray.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3c51f8de-c51e-4506-ad0b-5fac770cb0c6",
+            "Value": {
+                "id": "995a189d-0dfd-4421-89c6-530a2edf87f7",
+                "resourcePath": "objects\\objLog\\objLog.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -303,6 +319,14 @@
             }
         },
         {
+            "Key": "a5f016d3-94c9-4d20-9712-a1bf000ab858",
+            "Value": {
+                "id": "3f77cd18-c0b6-43fb-b11e-a1229d63da14",
+                "resourcePath": "views\\a5f016d3-94c9-4d20-9712-a1bf000ab858.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "291eb222-900b-4585-ae52-70f12d313bf2",
@@ -407,6 +431,14 @@
             }
         },
         {
+            "Key": "e475c681-a110-41b0-91e5-286c2900153b",
+            "Value": {
+                "id": "bfab3baa-1c36-442b-ba94-75a4657cba49",
+                "resourcePath": "sprites\\sprDollLog\\sprDollLog.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e7b152c7-5a01-428d-b669-2577b62214f0",
             "Value": {
                 "id": "36829bfb-c0d4-4518-8497-9a6255e16517",
@@ -465,7 +497,8 @@
         "6d52f8c1-53ce-4c5e-a83b-a2a5eab7deb2",
         "f6cad632-4dd1-41c0-9189-652d923f04f3",
         "559787f1-1fc1-401f-87d3-db6795b21ae8",
-        "3a62fc86-880c-45f6-9dfc-4845ba5081fd"
+        "3a62fc86-880c-45f6-9dfc-4845ba5081fd",
+        "28dd1c38-e896-47b4-a421-8eb4d6537e6f"
     ],
     "tutorial": ""
 }

@@ -11,3 +11,6 @@ animationProgress = 0;
 textProgress = 0;
 
 textBoxBackground = 0;
+
+responseCursor = 0;
+

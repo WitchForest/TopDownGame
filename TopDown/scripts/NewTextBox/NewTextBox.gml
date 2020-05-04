@@ -29,6 +29,23 @@ with (instance_create_layer(0, 0, "Instances", _obj))
 	{
 		background = 1;
 	}
+	
+	if (argument_count > 2)
+	{
+		responses = argument[2];
+		for (var i = 0; i < array_length_1d(responses); ++i)
+		{
+			var _markerPosition = string_pos(":", responses[i]);
+			// todo - look up function definitions
+			responseScript[i] = real(string_copy(responses[i], 1, _markerPosition - 1 ));
+			responses[i] = string_delete(responses[i], 1, _markerPosition);
+		}
+	}
+	else
+	{
+		responses = [-1];
+		responseScript = [-1];
+	}
 }
 
 with (objPlayer)

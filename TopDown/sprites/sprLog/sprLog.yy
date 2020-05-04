@@ -38,8 +38,8 @@
             ]
         }
     ],
-    "gridX": 0,
-    "gridY": 0,
+    "gridX": 32,
+    "gridY": 32,
     "height": 128,
     "layers": [
         {
@@ -65,6 +65,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 192,
-    "xorig": 75,
-    "yorig": 51
+    "xorig": 53,
+    "yorig": 16
 }
