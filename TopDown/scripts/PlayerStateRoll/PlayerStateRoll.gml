@@ -20,6 +20,7 @@ if (moveDistanceRemain <= 0)
 
 if (_collieded)
 {
-	state = PlayerStateWalk;
-	ScreenShake(8, 30);
+	moveDistanceRemain = distanceBonked;
+	ScreenShake(4, 20);
+	playerState = PlayerStateBonked;
 }

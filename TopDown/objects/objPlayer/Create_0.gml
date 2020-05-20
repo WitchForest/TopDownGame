@@ -1,6 +1,8 @@
 collisionMap = layer_tilemap_get_id(layer_get_id("Collision"));
 
 playerState = PlayerStateWalk;
+playerAttackState = attackSlash;
+hitByAttack = -1;
 lastState = playerState;
 
 image_speed = 0;
@@ -9,7 +11,10 @@ vSpeed = 0;
 speedWalk = 1.0;
 speedRoll = 2.0;
 distanceRoll = 75;
-
+distanceBonked = 40;
+distanceBonkedHeight = 12;
+speedBonked = 1.5;
+z = 0;
 
 spriteRun = sprDollAWalk;
 spriteIdle = sprDollAStand;

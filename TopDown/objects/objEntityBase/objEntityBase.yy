@@ -23,6 +23,16 @@
             "enumb": 4,
             "eventtype": 7,
             "m_owner": "828d9252-cda8-442d-b779-11088a269f69"
+        },
+        {
+            "id": "519865fb-58d2-4155-ba67-b30e56965ff7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "828d9252-cda8-442d-b779-11088a269f69"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -96,6 +106,20 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "entityNPC",
+            "varType": 3
+        },
+        {
+            "id": "d842190a-5ca1-4f8a-aae4-13321466140f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "entityShadow",
             "varType": 3
         }
     ],
