@@ -5,7 +5,7 @@
     "name": "objLog",
     "eventList": [
         {
-            "id": "538859aa-eae1-4e09-b8fd-1de1bf10e816",
+            "id": "4d05cdcd-4a77-4c5b-a22d-d36fcc63667a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -24,6 +24,14 @@
             "objectId": "828d9252-cda8-442d-b779-11088a269f69",
             "propertyId": "dfb2b63d-8986-41d3-b7b0-e01a6d84d3df",
             "value": "True"
+        },
+        {
+            "id": "e1699cb5-1715-44c0-a5c9-8059ff97c568",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "828d9252-cda8-442d-b779-11088a269f69",
+            "propertyId": "0aa80e7f-dfda-44ce-bd87-7243a8e5f611",
+            "value": "EntityHitSolid"
         }
     ],
     "parentObjectId": "828d9252-cda8-442d-b779-11088a269f69",

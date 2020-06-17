@@ -9,13 +9,16 @@ if (hits > 0)
 	for (var i = 0; i < hits; ++i)
 	{
 		// if this instance has not yet been collided - collide
-		var hitID = hitByAttackFrame[| i]; /// Look this up? why the pipe value?
+		var hitID = hitByAttackFrame[| i]; // Pipe character is used to access a value from a DS list
 		if (ds_list_find_index(hitByAttack, hitID) == -1)
 		{
 			ds_list_add(hitByAttack, hitID);
 			with (hitID)
 			{
-				image_blend = c_red;
+				if (entityHitScript != -1)
+				{
+					script_execute(entityHitScript);
+				}
 			}
 		}
 	}
