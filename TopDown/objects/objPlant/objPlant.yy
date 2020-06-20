@@ -23,6 +23,22 @@
             "objectId": "828d9252-cda8-442d-b779-11088a269f69",
             "propertyId": "0aa80e7f-dfda-44ce-bd87-7243a8e5f611",
             "value": "EntityHitDestroy"
+        },
+        {
+            "id": "11dab266-c1bd-400f-8b94-ea3de5fda9f2",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "828d9252-cda8-442d-b779-11088a269f69",
+            "propertyId": "94e01334-148a-4d0d-bf57-ddd80fb0de45",
+            "value": "4"
+        },
+        {
+            "id": "5211031d-a3cf-4934-9d9c-a8a329886c49",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "828d9252-cda8-442d-b779-11088a269f69",
+            "propertyId": "0ee8c101-1848-4935-bd87-1ee71ccb3553",
+            "value": "objFragPlant"
         }
     ],
     "parentObjectId": "828d9252-cda8-442d-b779-11088a269f69",

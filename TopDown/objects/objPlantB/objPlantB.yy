@@ -15,6 +15,22 @@
             "objectId": "828d9252-cda8-442d-b779-11088a269f69",
             "propertyId": "d842190a-5ca1-4f8a-aae4-13321466140f",
             "value": "False"
+        },
+        {
+            "id": "5408912e-e88c-4fc1-893f-7b5bbd36a396",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "828d9252-cda8-442d-b779-11088a269f69",
+            "propertyId": "0ee8c101-1848-4935-bd87-1ee71ccb3553",
+            "value": "objFragPlant"
+        },
+        {
+            "id": "a84189ab-7813-4e98-8def-d16fcf6d246b",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "828d9252-cda8-442d-b779-11088a269f69",
+            "propertyId": "94e01334-148a-4d0d-bf57-ddd80fb0de45",
+            "value": "2"
         }
     ],
     "parentObjectId": "828d9252-cda8-442d-b779-11088a269f69",

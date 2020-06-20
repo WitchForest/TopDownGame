@@ -1,0 +1,2 @@
+PlayerCollision();
+AnimateSprite();
