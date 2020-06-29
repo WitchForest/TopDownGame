@@ -9,7 +9,8 @@
         "f6cad632-4dd1-41c0-9189-652d923f04f3",
         "ca193417-2d1c-47a5-8d6d-2ea221440f34",
         "111fc611-bd25-4453-94ac-e2a2eccd3826",
-        "6da7d95f-8b71-4a16-8490-10b34dc3f82c"
+        "6da7d95f-8b71-4a16-8490-10b34dc3f82c",
+        "c22de28e-0d15-49ce-abcd-46e6f1f1b2ce"
     ],
     "filterType": "GMScript",
     "folderName": "PlayerStates",

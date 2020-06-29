@@ -16,6 +16,8 @@ distanceBonkedHeight = 12;
 speedBonked = 1.5;
 z = 0;
 
+animationEndScript = -1;
+
 spriteRun = sprDollAWalk;
 spriteIdle = sprDollAStand;
 spriteRoll = sprDollARoll;

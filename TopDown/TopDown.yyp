@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "452b63e0-1929-47cc-ab3c-41e75bab78cf",
+            "Value": {
+                "id": "784071b6-9712-4b69-bd17-0349cdf7c073",
+                "resourcePath": "scripts\\PlayerActOutAnimation\\PlayerActOutAnimation.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "54e45515-92d6-48eb-a6f9-0ae1440542bd",
             "Value": {
                 "id": "7c8dc79b-d394-4e01-9fae-d1000b183702",
@@ -308,6 +316,14 @@
                 "id": "598ca161-6655-4fcd-a9fd-aee97ce2a863",
                 "resourcePath": "scripts\\PlayerStateTransition\\PlayerStateTransition.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "71ced001-f0c5-4151-a4bf-092ad5334ed2",
+            "Value": {
+                "id": "3624f550-62d5-4893-8d8e-cf5565ff48cc",
+                "resourcePath": "objects\\objPot\\objPot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -447,6 +463,14 @@
             }
         },
         {
+            "Key": "a01c3239-3578-4cca-ad2d-9dc4269ec4cf",
+            "Value": {
+                "id": "35baf4c1-b4d9-48d2-bce4-81833dd41a92",
+                "resourcePath": "scripts\\ActivateLiftable\\ActivateLiftable.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a062e4d2-bf48-4026-af0b-5d591a86bc51",
             "Value": {
                 "id": "09f6d48c-7e67-427c-b06d-34fcf6e8f64c",
@@ -492,6 +516,14 @@
                 "id": "291eb222-900b-4585-ae52-70f12d313bf2",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ad873442-157b-44b4-ba4d-7cb796f6ab78",
+            "Value": {
+                "id": "c3a22955-fe97-4ba6-8248-6b41b4f78979",
+                "resourcePath": "sprites\\sprPot\\sprPot.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -556,6 +588,22 @@
                 "id": "7092d2d1-072c-41ff-8c31-77b91cede9f2",
                 "resourcePath": "views\\bc062b68-5976-4528-b6f4-c14965923a1e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "be77dd45-6f65-4a56-a563-330cd8879054",
+            "Value": {
+                "id": "c4ef7bc0-9ca4-4b5b-96cb-b3ddf32caac2",
+                "resourcePath": "sprites\\sprDollALift\\sprDollALift.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c22de28e-0d15-49ce-abcd-46e6f1f1b2ce",
+            "Value": {
+                "id": "7f744530-5c0a-4c31-809c-4a9982e18f2f",
+                "resourcePath": "scripts\\PlayerStateAct\\PlayerStateAct.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -729,10 +777,13 @@
         "ca193417-2d1c-47a5-8d6d-2ea221440f34",
         "111fc611-bd25-4453-94ac-e2a2eccd3826",
         "6da7d95f-8b71-4a16-8490-10b34dc3f82c",
+        "c22de28e-0d15-49ce-abcd-46e6f1f1b2ce",
         "939dfb83-fa04-4ba9-a9a2-fbb72664da7b",
         "04031e5e-60a8-450d-91b8-261c1ce78ab5",
         "1b7fa976-0665-49fe-a5aa-f3b90742ef80",
-        "62250e9c-cdcc-44f8-9ce2-f033ce255cd8"
+        "62250e9c-cdcc-44f8-9ce2-f033ce255cd8",
+        "452b63e0-1929-47cc-ab3c-41e75bab78cf",
+        "a01c3239-3578-4cca-ad2d-9dc4269ec4cf"
     ],
     "tutorial": ""
 }

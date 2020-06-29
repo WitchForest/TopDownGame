@@ -13,5 +13,7 @@ global.targetX = -1;
 global.targetY = -1;
 global.targetDirection = -1;
 
+global.iLifted = noone; // instance id of entity of what charater is lifting. Should be part of base object
+
 surface_resize(application_surface, RESOLUTION_W, RESOLUTION_H);
 room_goto(ROOM_START)
